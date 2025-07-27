@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+xgboost
+catboost
+optuna
+shap
+#for mac below items to be download
+brew install libomp 
+export DYLD_LIBRARY_PATH="/opt/homebrew/opt/libomp/lib:$DYLD_LIBRARY_PATH"
+pip uninstall xgboost
+brew install cmake
+pip install xgboost --no-binary :all:
+
