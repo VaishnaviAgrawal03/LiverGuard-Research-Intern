@@ -85,6 +85,10 @@ source venv/bin/activate  # For macOS/Linux
 pip install -r requirements.txt
 
 streamlit run streamlit_app.py
+The app URL is given as follows-
+https://liverguard-research-intern-3vhjfu9bx63wcwvq6pnq7y.streamlit.app/
+
+<img width="2940" height="1542" alt="image" src="https://github.com/user-attachments/assets/619847ad-5cf7-4224-902e-a641a0b1134c" />
 
 ## 📂 Project Structure
 
